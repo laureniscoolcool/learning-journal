@@ -13,8 +13,11 @@ Remember, in the words of Walt Disney:
 - Everyone has the ability to learn and grow as a person, no matter what. Human beings are remarkably good at changing, and I can decide to change for the better.
 
 Remember to get lots of sleep! :sleeping:
+
 Eat regularly! :ramen:
+
 Love yourself! :hearts:
+
 Have fun! :video_game:
 
 ### To-Do List
