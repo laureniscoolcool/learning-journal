@@ -12,4 +12,8 @@ The terminal is really powerful on a computer. As they say, however, with great 
 
 Commands: pwd, AKA print working directory; cd, change directory; touch <FILENAME>, create new file; ls, list contents of directory; mkdir <directory name>, create directory; mv, move; cp, copy
   
-Navigation mainly relies on commands. There
+Navigation mainly relies on commands. There are paths that guide the code on what to do: relative and absolute. These mean that the path is based on where you are in the code, or are the same no matter where you are, respectfully.
+
+### About Files
+
+Literally everything within Linux is a file. Everything from actual files to directories is a file. Commands associated with files include file, which gives you information about what type of a file a file/directory is, and ls -a, which lists everything in a directory, including hidden files. Linux is extensionless, so a file can have any extension, but it is also case-sensitive, so be careful.
