@@ -26,7 +26,7 @@ Love yourself! :hearts:
 
 Have fun! :video_game:
 
-&dragonfly
+[GitHub](https://github.com/)
 
 ### To-Do List
 - ~~Write a paragraph on growth mindset~~
